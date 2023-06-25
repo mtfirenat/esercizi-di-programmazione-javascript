@@ -15,3 +15,9 @@
 
   http://www.imparareaprogrammare.it
 */
+const number = 56
+if ( number%2 < 1) {
+console.log(0);
+} else {
+console.log(1);
+}
